@@ -351,7 +351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e248de3a1674b38b90811338efaae5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  midiPath: C:\Users\john\Documents\MuseScore4\Scores\Chopin\Chopin_Ballade_No._4_Piano_solo-Piano.mid
+  midiDataPath: C:\Users\johnb\Desktop\midi\EndCredits
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
